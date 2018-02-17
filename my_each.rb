@@ -1,3 +1,7 @@
-def my_each # put argument(s) here
-  # code here
+def my_each(collection)
+  i = 0
+
+  while i < collection.length
 end
+
+array = [1,2,3,4]
